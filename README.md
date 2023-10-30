@@ -18,3 +18,6 @@ Este é o repositório para o meu projeto de registro de usuários com verifica�
 ## Configuração
 
 Se por algum motivo você for usar o projeto, certifique-se de configurar as variáveis de ambiente necessárias, incluindo as credenciais da API do SendGrid e as configurações do MongoDB.
+
+## Caso queira testar: 
+- [Link]([https://sendgrid.com/](https://login-victor-vx.glitch.me/login)https://login-victor-vx.glitch.me/login)
