@@ -21,4 +21,4 @@ Se por algum motivo você for usar o projeto, certifique-se de configurar as var
 
 ## Caso queira testar: 
 
-[Link](https://login-victor-vx.glitch.me/login)
+[Link](https://code-verify-auth.glitch.me/acesso-api)
